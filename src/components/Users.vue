@@ -1,6 +1,6 @@
 <template>
 <div class="container">
-  <h3> Users Update: hi bob and alice</h3>
+  <h3> Users Update: hi bob and alice and everyone</h3>
 
     <table class="table">
       <thead>
